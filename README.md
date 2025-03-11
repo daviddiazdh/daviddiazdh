@@ -1,5 +1,5 @@
 <div style= text-align:center>
-    <h1> Hi, welcome to my GitHub profile! </h1>
+    <h1 style="color: yellow;"> Hi, welcome to my GitHub profile! </h1>
         -  I am a developer who is always looking for a challenge, ready to learn something new. 
         -  I love to code and also teach about it!! 👨🏽‍🏫
     </div>
