@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daviddiazdh&show_icons=true&theme=radical)
 
 ### 💻 Tecnologías:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=magent)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![snake gif](https://github.com/daviddiazdh/daviddiazdh/blob/output/github-snake-dark.svg)
