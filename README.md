@@ -1,8 +1,8 @@
-<div style= text-align:center>
+<div align="center">
 <h1 style="color: yellow;"> Hi, welcome to my GitHub profile! </h1>
     -  I am a developer who is always looking for a challenge, ready to learn something new. 
     -  I love to code and also teach about it!! 👨🏽‍🏫
-<div style="align: center;"> 
+<div align= "center"> 
 
 ![Jake el Perro](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif)
 
