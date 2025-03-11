@@ -1,15 +1,26 @@
 <div align="center">
 <h1 style="color: yellow;"> Hi, welcome to my GitHub profile! </h1>
-    -  I am a developer who is always looking for a challenge, ready to learn something new. 
-    -  I love to code and also teach about it!! 👨🏽‍🏫
+<div align="left">
+    
+- I am a developer who is always looking for a challenge, ready to learn something new. 💻 
+- I love to code and also teaching about different topics!! 👨🏽‍🏫
+    
+</div>
+
+
+   
 <div align= "center"> 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="400" height="200" alt="Descripción del gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="300" height="150" alt="Descripción del gif">
 
 </div>
 
 
 </div>
+
+## I'm the foundator of NOMO
+- NOMO was designed to help students to understand university topics in a very different way. 👨🏼‍🎓
+- Unfortunately I haven't had the time I would like to progress quickly, but I believe in the "Little by little, one travels far" ✈️
 
 
 
