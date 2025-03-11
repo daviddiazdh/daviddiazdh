@@ -1,7 +1,13 @@
 <div style= text-align:center>
-    # Hi, welcome to my GitHub profile! 
-    -  I am a developer who is always looking for a challenge, ready to learn something new. 
-    -  I love to code and also teach about it!! 👨🏽‍🏫
+    <div>
+# Hi, welcome to my GitHub profile! 
+-  I am a developer who is always looking for a challenge, ready to learn something new. 
+-  I love to code and also teach about it!! 👨🏽‍🏫
+    </div>
+    <div>
+        
+    </div>
+
 </div>
 
 
