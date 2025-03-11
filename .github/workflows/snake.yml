@@ -9,6 +9,7 @@ on:
   schedule:
 
     - cron: "0 0 * * *"
+  
 
 
 
@@ -16,16 +17,14 @@ on:
 
   workflow_dispatch:
 
-
-
-  # Trigger the workflow on pushes to the main branch
-
   push:
 
     branches:
 
       - main
 
+permissions:
+  contents: write 
 
 
 jobs:
@@ -43,7 +42,6 @@ jobs:
       # Step 1: Checkout the repository
 
       - name: Checkout Repository
-
         uses: actions/checkout@v3
 
       - name: Configurar Git
