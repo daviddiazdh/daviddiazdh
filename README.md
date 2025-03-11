@@ -1,18 +1,11 @@
 <div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="300" height="150" alt="Descripción del gif">
 <h1 style="color: yellow;"> Hi, welcome to my GitHub profile! </h1>
 <div align="left">
     
 - I am a developer who is always looking for a challenge, ready to learn something new. 💻 
 - I love to code and also teaching about different topics!! 👨🏽‍🏫
     
-</div>
-
-
-   
-<div align= "center"> 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="300" height="150" alt="Descripción del gif">
-
 </div>
 
 
