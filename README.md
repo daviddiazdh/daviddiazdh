@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I am a developer who is always looking for a challenge, ready to learn something new. 
+I love to code and also teach about it!! 👨🏽‍🏫
 
 <!--
 **daviddiazdh/daviddiazdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
