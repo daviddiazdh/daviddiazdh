@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daviddiazdh&show_icons=true&theme=radical)
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=daviddiazdh&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+### 💻 Tecnologías:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![snake gif](https://github.com/daviddiazdh/daviddiazdh/blob/output/github-snake-dark.svg)
