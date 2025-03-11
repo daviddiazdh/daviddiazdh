@@ -1,7 +1,7 @@
 ## Hi, I am a developer who is always looking for a challenge, ready to learn something new. 
 I love to code and also teach about it!! 👨🏽‍🏫
 
-![Jake el Perro](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+![Jake el Perro]([https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif)
 
 <!--
 **daviddiazdh/daviddiazdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
