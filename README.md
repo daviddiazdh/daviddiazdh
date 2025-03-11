@@ -4,9 +4,7 @@
     -  I love to code and also teach about it!! 👨🏽‍🏫
 <div align= "center"> 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="300" height="200" alt="Descripción del gif">
-
-![Jake el Perro](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="200" height="200" alt="Descripción del gif">
 
 </div>
 
