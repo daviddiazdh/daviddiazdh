@@ -37,7 +37,7 @@
 
 ## 🌐 Connect with me
 
-[![Email](https://img.shields.io/badge/email-tucorreo%40ejemplo.com-red?style=flat&logo=gmail)](mailto:daviddiazdh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TuNombre-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daviddiazdh/)
-[![GitHub](https://img.shields.io/badge/GitHub-TuUsuario-181717?style=flat&logo=github)](https://github.com/daviddiazdh)
+[![Email](https://img.shields.io/badge/email-daviddiazh%40gmail.com-red?style=flat&logo=gmail)](mailto:daviddiazdh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daviddiazdh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daviddiazdh/)
+[![GitHub](https://img.shields.io/badge/GitHub-daviddiazdh-181717?style=flat&logo=github)](https://github.com/daviddiazdh)
 
