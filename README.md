@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="300" height="150" alt="Descripción del gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1NnNhbmRjZG8yMmE1NGthb2JzMHZnczAwMXN1MGR5ejB3MW8wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrV1C9kNmsacg/giphy.gif" width="300" height="150" alt="Jake">
 <h1 style="color: yellow;"> Hi, welcome to my GitHub profile! </h1>
 <div align="left">
     
@@ -11,7 +11,7 @@
 
 </div>
 
-## I'm the foundator of NOMO
+## I'm NOMO's foundator
 - NOMO was designed to help students to understand university topics in a very different way. 👨🏼‍🎓
 - Unfortunately I haven't had the time I would like to progress quickly, but I believe in the "Little by little, one travels far" ✈️
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daviddiazdh&show_icons=true&theme=radical)
 
-### 💻 Tecnologías:
+### 💻 Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=orange)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=orange)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
