@@ -15,26 +15,9 @@
 - NOMO was designed to help students to understand university topics in a very different way. 👨🏼‍🎓
 - Unfortunately I haven't had the time I would like to progress quickly, but I believe in the "Little by little, one travels far" ✈️
 
-
-
-
-
-
-
-<!--
-**daviddiazdh/daviddiazdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a parser from imperative language to lambda language
+- 🌱 I’m currently learning code translator
+- 💟 I love to help with people's knowledge
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daviddiazdh&show_icons=true&theme=radical)
 
@@ -50,3 +33,11 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![snake gif](https://github.com/daviddiazdh/daviddiazdh/blob/output/github-snake-dark.svg)
+
+
+## 🌐 Connect with me
+
+[![Email](https://img.shields.io/badge/email-tucorreo%40ejemplo.com-red?style=flat&logo=gmail)](mailto:daviddiazdh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TuNombre-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daviddiazdh/)
+[![GitHub](https://img.shields.io/badge/GitHub-TuUsuario-181717?style=flat&logo=github)](https://github.com/daviddiazdh)
+
