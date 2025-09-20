@@ -39,5 +39,5 @@
 
 [![Email](https://img.shields.io/badge/-daviddiazdh%40gmail.com-white?style=flat&logo=gmail)](mailto:daviddiazdh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daviddiazdh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/david-díaz-9605151b0)
-[![GitHub](https://img.shields.io/badge/GitHub-daviddiazdh-181717?style=flat&logo=github)](https://github.com/daviddiazdh)
+[![GitHub](https://img.shields.io/badge/daviddiazdh-181717?style=flat&logo=github)](https://github.com/daviddiazdh)
 
